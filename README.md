@@ -1,2 +1,0 @@
-# Pangea
-Riks Rad Repo
